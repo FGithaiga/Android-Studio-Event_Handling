@@ -18,7 +18,7 @@ It covers handling user interactions such as clicks, long presses, and other UI 
 
 Here’s how the Event Handling Codelab looks:
 
-![Event Handling UI](Images/Event_Handling_Demo.png)
+![Event Handling UI](Images/Events_Handling_Demo.png)
 
 ---
 
