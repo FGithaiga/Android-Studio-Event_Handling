@@ -14,16 +14,15 @@ It covers handling user interactions such as clicks, long presses, and other UI 
 
 ---
 
-## 🛠 Project Structure
-- `app/src/main/java/` → Kotlin source code (`MainActivity.kt`)
-- `app/src/main/res/` → Layouts, drawables, values (themes, strings, colors)
-- `app/src/main/AndroidManifest.xml` → App manifest
-- `app/src/test/java/` → Unit tests
-- `app/src/androidTest/java/` → Instrumented tests
-- `build.gradle.kts` → Project build configuration
-- `app/build.gradle.kts` → Module build configuration
-- `settings.gradle.kts` → Gradle settings
+## 📸 Screenshots
+
+Here’s how the Event Handling Codelab looks:
+
+![Event Handling UI](Images/Event_Handling.png)
 
 ---
 
-
+## 🚀 Getting Started
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/FGithaiga/Android-Studio-Event_Handling.git
