@@ -22,7 +22,4 @@ Here’s how the Event Handling Codelab looks:
 
 ---
 
-## 🚀 Getting Started
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/FGithaiga/Android-Studio-Event_Handling.git
+
